@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /skills-learning/
-title: "Learning new skills Posts by Tags"
+permalink: /journey/
+title: "My journey Posts by Tags"
 author_profile: true
 ---
 {% include base_path %}

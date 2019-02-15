@@ -107,8 +107,8 @@ analytics:
 # Site Author
 author:
   name             : "Francisco Paulino"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm into computer infrastructure, information security and videogames."
+  avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "I'm into computer infrastructure and information security among other things."
   location         : "Guadalajara, Jalisco MX"
   email            :
   links:

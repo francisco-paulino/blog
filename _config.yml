@@ -114,10 +114,10 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-       url: mailto:efrancisco.paulino@outlook.com
-    - label: "LinkedIn"
+       #url: mailto:efrancisco.paulino@outlook.com
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-       url: "https://www.linkedin.com/in/francisco-paulino-43096a111"
+       #url: "https://www.linkedin.com/in/francisco-paulino-43096a111"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"

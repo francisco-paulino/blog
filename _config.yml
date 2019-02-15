@@ -114,7 +114,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
     - label: "Website"
-      icon: "fas fa-fw fa-link""
+      icon: "fas fa-fw fa-link"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
     - label: "GitHub"

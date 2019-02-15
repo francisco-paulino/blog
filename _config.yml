@@ -95,7 +95,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
+    - "https://www.linkedin.com/in/francisco-paulino-43096a111"
 # Analytics
 analytics:
   provider               : false # false (default), "google", "google-universal", "custom"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Francisco Paulino"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I'm into computer infrastructure and information security among other things."
+  bio              : "I’m an Engineer currently working on infrastructure as a Service interested on Information Security. This blog is my first attempt to document my journey on the new skills I’m trying to learn."
   location         : "Guadalajara, Jalisco MX"
   email            :
   links:

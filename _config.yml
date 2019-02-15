@@ -125,8 +125,8 @@ author:
     #  icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
-      #icon: "fab fa-fw fa-github"
-       url: "https://github.com/mmistakes"
+      icon: "fab fa-fw fa-github"
+       #url: "https://github.com/mmistakes"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -295,9 +295,9 @@ defaults:
       related: true
 
 # _pages
--scope:
-  path: ""
-  type:: pages
-values:
-  layout: single
-  author_profile: true
+- scope:
+    path: ""
+    type: pages
+  values:
+    layout: single
+    author_profile: true

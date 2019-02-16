@@ -119,8 +119,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-       #url: "https://github.com/mmistakes"
+      url: "https://github.com/francisco-paulino"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        #url: "https://instagram.com/"
@@ -136,7 +135,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-
+      url: "https://github.com/francisco-paulino"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:

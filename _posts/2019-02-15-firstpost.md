@@ -17,11 +17,9 @@ This blog is the result of one of my priorities which is to **learn by doing**. 
 * Work on my english writing skills
 * Have a central repository of information I can look back to (particularly for the technical information I plan to publish)
 * The information I share here might be of help for someone else. I'm sure I have found very useful information on other's people blogs.
-* Create a part of my [**online identity**](https://www.troyhunt.com/why-online-identities-are-smart-career/)
 
 To manage my blog I decided to use [Github Pages](https://pages.github.com/) because I can learn to use github repos and I can practice my coding skills; also I used [Jekyll themes](https://jekyllrb.com/) to have my blog ready in about 2 hours.
 
 Finally my next steps on this blog are:
 - Configure Google Analytics before going live to track the traffic of the blog
-- Configure comments on the blog to receive feedback locally
-- Add my Professional social network profiles, probably LinkedIn and Gihub
+- Add my Professional social network profiles, probably LinkedIn and GitHub

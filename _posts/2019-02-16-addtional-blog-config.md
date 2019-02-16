@@ -34,8 +34,10 @@ analytics:
   google:
     tracking_id          : UA-*********-*
 ```
+That is the format of the **GATC** notice I masked my **tracking_id** for privacy purposes.
 
 Finally once the site is configured it will be reporting the information can be seen on the Google Analytics Plarform dashboard.
 
 I tested it and it showed only active user(me):
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_report.PNG" alt="">

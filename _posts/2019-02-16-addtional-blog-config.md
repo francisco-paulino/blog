@@ -10,14 +10,15 @@ I want to keep track of the traffic on the blog, so I will configure Google Anal
 
 The first step is to go to *https://analytics.google.com/analytics/*.
 
-Sign up using a gmail account, for this purpose I used my personal gmail account.
+Sign up using a Gmail account, for this purpose I used my personal Gmail account.
 
-Below are captures of the steps I followed:
-<figure class="half">
-    <a href="/images/googleanalytics_createaccount.PNG"><img src="/images/googleanalytics_createaccount.PNG"></a>
-    <a href="/images/googleanalytics_datasharing.PNG"><img src="/images/googleanalytics_datasharing.PNG"></a>
-    <figcaption></figcaption>
-</figure>
+This is the general data you need to submit, the most important settings here are the blog URL and the "https" setting.  
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_createaccount.PNG" alt="">
+
+These other settings are optional, I only enabled the less intrusive ones: Benchmarking and Technical Support   
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_datasharing.PNG" alt="">
 
 One interesting fact about the Google Analytics Terms of Service Agreement is the pricing.
 
@@ -36,7 +37,7 @@ analytics:
 ```
 That is the format of the **GATC** notice I masked my **tracking_id** for privacy purposes.
 
-Finally once the site is configured it will be reporting the information can be seen on the Google Analytics Plarform dashboard.
+Finally once the site is configured it will be reporting the information can be seen on the Google Analytics Platform dashboard.
 
 I tested it and it showed only active user, that's me:
 

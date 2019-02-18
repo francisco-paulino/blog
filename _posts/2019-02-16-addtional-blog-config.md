@@ -42,3 +42,7 @@ Finally once the site is configured it will be reporting the information can be 
 I tested it and it showed only active user, that's me:
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_report.PNG" alt="">
+
+But what is someone gets my GATC and decides to used it on the platform? In that case I added a filter to restrict traffic only for my hostname **francisco-paulino.github.io**.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_hostnamefilter.PNG" alt="">

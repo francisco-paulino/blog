@@ -107,8 +107,8 @@ analytics:
 author:
   name             : "Francisco Paulino"
   avatar           : "/images/avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I’m an Engineer currently working on infrastructure as a Service interested on Information Security. This blog is my first attempt to document my journey on the new skills I’m trying to learn."
-  location         : "Guadalajara, Jalisco MX"
+  bio              : "I’m an Engineer currently working on Infrastructure as a Service interested on Information Security. This blog is my first attempt to document my journey on the new skills I’m trying to learn."
+  location         : "Guadalajara, Jalisco Mexico"
   email            : "efrancisco.paulino@outlook.com"
   links:
     - label: "LinkedIn"

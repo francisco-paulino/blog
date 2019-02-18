@@ -26,7 +26,7 @@ As described on section 2 of the Agreement the analytics is provided at no charg
 
 *"Hit" means the base unit that the Google Analytics system processes. A Hit may be a call to the Google Analytics system by various libraries, including, Javascript (e.g., analytics.js), Silverlight, Flash, and Mobile. A Hit may currently be a page view, a transaction, item, or event, social interaction, or user timing. Hits may also be delivered to the Google Analytics system without using one of the various libraries by other Google Analytics-supported protocols and mechanisms the Service makes available to You.*
 
-Once the account is created a **Google Analytics Tracking Code(GATC)** is assigned. We need to add this code to our code in order to report to the platform. I'm using yml configuration files and Markdown markup language so my case I added it to my *_config.yml* file:
+Once the account is created a **Google Analytics Tracking Code(GATC)** is assigned. We need to add this code to our configuration in order to report to the platform. I'm using yml configuration files and Markdown markup language so my case I added it to my *_config.yml* file:
 
 ```yaml
 # Analytics

@@ -45,7 +45,7 @@ In conclusion a password manager simplifies the security of your everyday online
 
 **Additional resources**
 - Have I been pwned? A service that lets you know if your email has been compromised on any of the recorded Data Breaches
-  [You can check it here:](https://haveibeenpwned.com/)
+  [https://haveibeenpwned.com/](https://haveibeenpwned.com/)
 
 - LastPass: Free password manager
   [https://www.lastpass.com/](https://www.lastpass.com/)

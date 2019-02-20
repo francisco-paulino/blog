@@ -12,11 +12,11 @@ The first step is to go to *https://analytics.google.com/analytics/*.
 
 Sign up using a Gmail account, for this purpose I used my personal Gmail account.
 
-This is the general data you need to submit, the most important settings here are the blog URL and the "https" setting.  
+This is the general data you need to submit, the most important settings here are the blog URL and the "https" fields.  
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_createaccount.PNG" alt="">
 
-These other settings are optional, I only enabled the less intrusive ones: Benchmarking and Technical Support   
+These other settings are optional, I only enabled the less intrusive ones: Benchmarking and Technical Support.
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/googleanalytics_datasharing.PNG" alt="">
 
@@ -26,7 +26,7 @@ As described on section 2 of the Agreement the analytics is provided at no charg
 
 *"Hit" means the base unit that the Google Analytics system processes. A Hit may be a call to the Google Analytics system by various libraries, including, Javascript (e.g., analytics.js), Silverlight, Flash, and Mobile. A Hit may currently be a page view, a transaction, item, or event, social interaction, or user timing. Hits may also be delivered to the Google Analytics system without using one of the various libraries by other Google Analytics-supported protocols and mechanisms the Service makes available to You.*
 
-Once the account is created a **Google Analytics Tracking Code(GATC)** is assigned. We need to add this code to our configuration in order to report to the platform. I'm using yml configuration files and Markdown markup language so my case I added it to my *_config.yml* file:
+Once the account is created a **Google Analytics Tracking Code(GATC)** is assigned. We need to add this code to our configuration in order to report to the platform. I'm using yaml configuration files and Markdown markup language so my case I added it to my *_config.yml* file:
 
 ```yaml
 # Analytics

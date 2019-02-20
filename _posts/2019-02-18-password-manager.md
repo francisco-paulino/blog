@@ -14,9 +14,9 @@ Here is some context, I have a lot of accounts on a lot of online services and I
 
 I was doing that until I got **pwned**, which basically means someone got my email and my password somehow and took over my twitter account. That someone could have probably take over my email and several other accounts because I was using the same email and password but for some reason that someone decided to take only my twitter account, lucky me.
 
-Long story short I saw the potential damage I could have received and I decided to make a list of the accounts I cared about. It didn't take me long to realize I had over 20 accounts between email, social network, financial, healthcare and government (the ones I use for my passport and taxes) that I cared enough to not lose or get my information stolen.
+Long story short I saw the potential damage I could have received and **I decided to make a list of the accounts I cared about.** It didn't take me long to realize I had over 20 accounts between email, social network, financial, healthcare and government (the ones I use for my passport and taxes) that I cared enough to not lose or get my information stolen.
 
-So I started to google solutions for my current problem and I found 3 things that reduce the change of getting **pwned**.
+So I started to google solutions for my current problem and I found 3 things that reduce the chance of getting **pwned**.
 1. A password manager (I'm using LastPass which is free)
 2. Multi-factor authentication
 3. Meaningless long random character strings as unique passwords
@@ -24,9 +24,13 @@ So I started to google solutions for my current problem and I found 3 things tha
 So what is a password manager?
 www.techopedia.com describes it as *"a software application that is used to store and manage the passwords that a user has for various online accounts and security features. Password managers store the passwords in an encrypted format and provide secure access to all the password information with the help of a master password."*
 
-**LastPass** is the password manager I'm using it helped me to store all my accounts and change the passwords to be unique. I locked them under a master password and also LastPass has fingerprint integration so I can use my fingerprint to access my passwords.
+**LastPass** is the password manager I'm using it helped me to store all my accounts and change the passwords to be unique. I locked them under a master password and I can access them using either a web browser or the iOS/Android applications. It has other nice features like:
 
-Perhaps You've heard of **Multi-factor authentication (MFA)** as that annoying setting corporate asked you to activate, at least that was what I though: *Why should I use my personal phone number? I don't want to be receiving work related stuff to my phone.* But turns out is very important because it adds an extra layer of security. On LastPass I enabled MFA to explicitly receive a notification whenever a connection to my LastPass account is made. Now I also have MFA enabled on my email accounts and my twitter account, on my bank accounts the bank forces MFA (voice recognition, token) which I think is great.
+* Fingerprint integration: You can register your fingerprint to access your passwords.
+* Password generator: You can easily generate passwords.
+* Security checks: This option analyzes your data to show you how secure you are and let's you know if you can do any changes to increase your security (changing weak or duplicate passwords).
+
+Moving on to the next thing that can help you to be more secure is **Multi-factor authentication (MFA)**. Perhaps You've heard of MFA as that annoying setting corporate asked you to activate, at least that was what I though: *Why should I use my personal phone number? I don't want to be receiving work related stuff to my phone.* But turns out is very important because it adds an extra layer of security. On LastPass I enabled MFA to explicitly receive a notification whenever a connection to my LastPass account is made and accept or deny the login attempt. Now I also have MFA enabled on my email accounts and my twitter account, on my bank accounts the bank forces MFA (voice recognition, token) which I think is great.
 
 In contrast with the usual model where only the user/password is required in MFA at least 2 independent factors must be provided to gain access to an account. Usually I use combination of something I know and something I have.
 

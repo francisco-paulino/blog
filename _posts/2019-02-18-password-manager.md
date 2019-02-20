@@ -28,7 +28,7 @@ www.techopedia.com describes it as *"a software application that is used to stor
 
 * Fingerprint integration: You can register your fingerprint to access your passwords.
 * Password generator: You can easily generate strong passwords. Common words and the digits or your birthday are not strong at all.
-* Security checks: This option analyzes your data to show you how secure you are and let's you know if you can do any changes to increase your security (ie. changing weak or duplicate passwords).
+* Security checks: This option analyzes your data to show you how secure you are and lets you know if you can do any changes to increase your security (ie. changing weak or duplicate passwords).
 
 Moving on to the next thing that can help you to be more secure is **Multi-factor authentication (MFA)**. Perhaps You've heard of MFA as that annoying setting corporate asked you to activate, at least that was what I though: *Why should I use my personal phone number? I don't want to be receiving work related stuff to my phone.* But turns out is very important because it adds an extra layer of security. On LastPass I enabled MFA to explicitly receive a notification whenever a connection to my LastPass account is made and accept or deny the login attempt. Now I also have MFA enabled on my email accounts and my twitter account, on my bank accounts the bank forces MFA (voice recognition, token) which I think is great.
 

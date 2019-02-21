@@ -10,13 +10,13 @@ Here is some context, I have a lot of accounts on a lot of online services and I
 
 1. Using passwords that are easy to remember. Probably a word and numbers.
 2. Using the same passwords on different accounts.
-3. Storing the password on a text file I could easily access, that file was on OneDrive or on Google Drive.
+3. Storing the passwords on a text file I could easily access, that file was on OneDrive or on Google Drive.
 
 I was doing that until I got **pwned**, which basically means someone got my email and my password somehow and took over my twitter account. That someone could have probably take over my email and several other accounts because I was using the same email and password but for some reason that someone decided to take only my twitter account, lucky me.
 
 Long story short I saw the potential damage I could have received and **I decided to make a list of the accounts I cared about.** It didn't take me long to realize I had over 20 accounts between email, social network, financial, healthcare and government (the ones I use for my passport and taxes) that I cared enough to not lose or get my information stolen.
 
-So I started to google solutions for my current problem and I found 3 things that reduce the chance of getting **pwned**.
+So I started to google solutions for my problem and I found 3 things that reduce the chance of getting **pwned**.
 1. A password manager (I'm using LastPass which is free)
 2. Multi-factor authentication
 3. Meaningless long random character strings as unique passwords
@@ -27,7 +27,7 @@ www.techopedia.com describes it as *"a software application that is used to stor
 **LastPass** is the password manager I'm using it helped me to store all my accounts and change the passwords to be unique. I locked them under a master password and I can access them using either a web browser or the iOS/Android applications. It has other nice features like:
 
 * Fingerprint integration: You can register your fingerprint to access your passwords.
-* Password generator: You can easily generate strong passwords. Common words and the digits or your birthday are not strong at all.
+* Password generator: You can easily generate strong passwords. Common words and the digits of your birthday are not strong at all.
 * Security checks: This option analyzes your data to show you how secure you are and lets you know if you can do any changes to increase your security (ie. changing weak or duplicate passwords).
 
 Moving on to the next thing that can help you to be more secure is **Multi-factor authentication (MFA)**. Perhaps You've heard of MFA as that annoying setting corporate asked you to activate, at least that was what I though: *Why should I use my personal phone number? I don't want to be receiving work related stuff to my phone.* But turns out is very important because it adds an extra layer of security. On LastPass I enabled MFA to explicitly receive a notification whenever a connection to my LastPass account is made and accept or deny the login attempt. Now I also have MFA enabled on my email accounts and my twitter account, on my bank accounts the bank forces MFA (voice recognition, token) which I think is great.

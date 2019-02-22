@@ -41,7 +41,7 @@ In contrast with the usual model where only the user/password is required in MFA
 Finally why **meaningless long random character strings as unique passwords**?
 Because the complexity makes it harder for someone to guess it or copy it and I don't need to memorize the passwords. I can save them on my password manager and copy them whenever I need it. Which is very easy to do in LastPass, either from the iOS or Android applications.
 
-In conclusion a password manager simplifies the security of your everyday online accounts. Familiarizing with its usage is also easy and setting up an account takes about 15 minutes which is nothing compared to the time it will take you to recover your accounts if they get stolen.
+In conclusion a password manager simplifies the security of your everyday online accounts. Familiarizing with its usage is also easy and setting up an account takes about 15 minutes which is nothing compared to the time it will take you to recover your accounts if they get stolen. That along with MFA and using more secure passwords can minimize the trouble down the road.
 
 **Additional resources**
 - Have I been pwned? A service that lets you know if your email has been compromised on any of the recorded Data Breaches

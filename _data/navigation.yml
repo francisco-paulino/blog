@@ -2,8 +2,8 @@
 main:
   - title: "Recent activity"
     url: /
-  - title: "Resume"
-    url: /resume/
+  - title: "References"
+    url: /references/
   - title: "About"
     url: /about/
 
